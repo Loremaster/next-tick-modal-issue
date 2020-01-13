@@ -6,7 +6,7 @@
 
     <b-modal ref="modal" hide-footer>
       <div class="d-block text-center">
-        <p class="h3">We are uploading your file...</p>
+        <p class="h3">Modal is opened</p>
       </div>
     </b-modal>
   </div>
